@@ -13,11 +13,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="distributed_springcloud" target="1.5" />
-      <module name="register_center" target="1.5" />
-      <module name="server_one" target="1.5" />
-      <module name="server_three" target="1.5" />
-      <module name="server_tow" target="1.5" />
+      <module name="distributed_springcloud" target="1.8" />
+      <module name="register_center" target="1.8" />
+      <module name="server_one" target="1.8" />
+      <module name="server_three" target="1.8" />
+      <module name="server_tow" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
