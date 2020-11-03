@@ -1,13 +1,13 @@
-package com.distributed.service_one.service_one;
+package org.distributed_springcloud.server_three;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ServiceOneApplication {
+public class ServerThreeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ServiceOneApplication.class, args);
+		SpringApplication.run(ServerThreeApplication.class, args);
 	}
 
 }
