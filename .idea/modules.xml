@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/distributed_springcloud.iml" filepath="$PROJECT_DIR$/distributed_springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/register_center/register_center.iml" filepath="$PROJECT_DIR$/register_center/register_center.iml" />
       <module fileurl="file://$PROJECT_DIR$/server_one/server_one.iml" filepath="$PROJECT_DIR$/server_one/server_one.iml" />
       <module fileurl="file://$PROJECT_DIR$/server_three/server_three.iml" filepath="$PROJECT_DIR$/server_three/server_three.iml" />
       <module fileurl="file://$PROJECT_DIR$/server_tow/server_tow.iml" filepath="$PROJECT_DIR$/server_tow/server_tow.iml" />

@@ -9,17 +9,20 @@
         <module name="server_one" />
         <module name="server_three" />
         <module name="server_tow" />
+        <module name="register_center" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="distributed_springcloud" target="8" />
-      <module name="server_one" target="8" />
-      <module name="server_three" target="8" />
-      <module name="server_tow" target="8" />
+      <module name="distributed_springcloud" target="1.5" />
+      <module name="register_center" target="1.5" />
+      <module name="server_one" target="1.5" />
+      <module name="server_three" target="1.5" />
+      <module name="server_tow" target="1.5" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="register_center" options="-parameters" />
       <module name="server_one" options="-parameters" />
       <module name="server_three" options="-parameters" />
       <module name="server_tow" options="-parameters" />
