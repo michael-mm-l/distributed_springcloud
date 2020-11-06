@@ -3,3 +3,8 @@ server:
 spring:
   application:
     name: SERVICE_AGENT
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9999/eureka/
