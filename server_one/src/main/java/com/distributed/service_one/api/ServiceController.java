@@ -13,7 +13,7 @@ public class ServiceController {
     private String applicationName;
 
 
-    @GetMapping("/api")
+    @GetMapping("/one")
     public void server(){
         log.info("{} is api",applicationName);
     }

@@ -7,7 +7,6 @@
 		<artifactId>distributed_springcloud</artifactId>
 		<version>1.0-SNAPSHOT</version>
 	</parent>
-	<groupId>org.distributed_springcloud</groupId>
 	<artifactId>server_three</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<name>server_three</name>

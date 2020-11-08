@@ -8,7 +8,6 @@
         <artifactId>distributed_springcloud</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <groupId>org.distributed_springcloud</groupId>
     <artifactId>server_tow</artifactId>
     <version>1.0-SNAPSHOT</version>
 
